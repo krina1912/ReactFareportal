@@ -1,0 +1,52 @@
+{ "customerDetails" : [
+    {
+      "customerId": 7,
+      "customerEmail": "abc@gamil.com",
+      "customerName": "abc1",
+      "customerPass": "900150983CD24FB0D6963F7D28E17F72",
+      "vsBookingDetails": []
+    },
+    {
+      "customerId": 8,
+      "customerEmail": "vaibhav@gmail.com",
+      "customerName": "Vaibhav",
+      "customerPass": "4CACF5759A7172B81EF88F675E7B612B",
+      "vsBookingDetails": []
+    },
+    {
+      "customerId": 9,
+      "customerEmail": "shriya@gmail.com",
+      "customerName": "Shriya",
+      "customerPass": "4E4B1FE2E90F0C4E32957D5F33B34E48",
+      "vsBookingDetails": []
+    },
+    {
+      "customerId": 10,
+      "customerEmail": "aayush@gmail.com",
+      "customerName": "Aayush",
+      "customerPass": "CDAC31F8CEA6E3E74C29C0C956857CD2",
+      "vsBookingDetails": []
+    },
+    {
+      "customerId": 13,
+      "customerEmail": "xyz@gmail.com",
+      "customerName": "xyz",
+      "customerPass": "D16FB36F0911F878998C136191AF705E",
+      "vsBookingDetails": []
+    },
+    {
+      "customerId": 17,
+      "customerEmail": "Dhruv@gmail.com",
+      "customerName": "Dhruv",
+      "customerPass": "Dhruv",
+      "vsBookingDetails": []
+    },
+    {
+      "customerId": 25,
+      "customerEmail": "test90@gmail.com",
+      "customerName": "test90",
+      "customerPass": "F22E9D39753C0EA31BFB8C179AFD6E11",
+      "vsBookingDetails": []
+    }
+  ]}
+  
